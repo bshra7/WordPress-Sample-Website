@@ -1,9 +1,9 @@
-# LAB-5
+Wordpress Sample Website
 
-objectives of the lab:
-- in this lab we explored Wordpress and how to work around with it.
-- we explored how to add content into wordpress such as pages, blogs and much more
+Objectives of the project:
+- to explored Wordpress and how to work around with it.
+- to explore how to add content into wordpress such as pages, blogs and much more
 
-Assignment:
-- we had to develop a persona of a person who is trying to get tickets to a concert
-- we had to tranform our vision about that person on wordpress
+Project:
+- developed a persona of a person who is trying to get tickets to a concert
+- tranform my vision about that person on wordpress, with bloga and pages that showcase the persona's interests.
